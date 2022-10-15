@@ -1,0 +1,5 @@
+﻿  functions.c
+C:\Users\death\OneDrive\Desktop\efstathioy_pa7\efstathioy_pa7\functions.c(176,7): warning C4013: 'getch' undefined; assuming extern returning int
+  main.c
+  Generating Code...
+  efstathioy_pa7.vcxproj -> C:\Users\death\OneDrive\Desktop\efstathioy_pa7\Debug\efstathioy_pa7.exe
