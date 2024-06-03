@@ -2,7 +2,7 @@ Hello!
 
 This is my Computer Science 121 PA 7 submission. This assignment was for the introductory C programming course at Washington State University's Pullman campus.
 
-I took this course in 2020 which makes this program 2 years old. 
+I took this course in 2020 which makes this program old! 
 
 I have not updated the program since 2020, take this program as a reflection of my programming skills two years ago.
 
